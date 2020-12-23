@@ -1,3 +1,63 @@
-.stylo {
-  grid-column: auto;
+.footer {
+  background-color: #444444;
+}
+
+.confcard:hover {
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+  transform: scale(1.02);
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.logo {
+  width: 125px;
+  height: 50px;
+}
+
+.navcolor {
+  background-color: black;
+}
+
+.bcolor {
+  background-color: rgb(247, 244, 244);
+}
+
+.promocolor {
+  background-color: #ff7f50;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.navfont {
+  font-size: small;
+}
+/* border-style: solid;
+  border-color: #ff7f50; */
+
+.navbar-form {
+  position: relative;
+  max-width: 100%;
+}
+.navbar-form {
+  left: 0;
+  right: 0;
+  margin: auto;
+  max-width: 100%;
+}
+
+.detail-page {
+  padding-top: 120px;
+  padding-bottom: 100px;
+}
+
+.borderless td,
+.borderless th {
+  border: none;
+}
+
+.btn-position {
+  margin-left: 0px;
 }
