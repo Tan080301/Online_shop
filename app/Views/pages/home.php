@@ -51,7 +51,7 @@
                     <div class="card-body">
                         <h5 class="card-title"><?= $db['nama_barang']; ?></h5>
                         <p class="card-text"><?= $db['deskripsi']; ?></p>
-                        <a href="/detail/<?= $db['slug']; ?>" class="btn btn-primary">Detail Produk</a>
+                        <a href="/detail/<?= $db['slug']; ?>" class="btn btn-danger">Detail Produk</a>
                     </div>
                 </div>
             <?php endforeach ?>

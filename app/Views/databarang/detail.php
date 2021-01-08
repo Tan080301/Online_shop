@@ -34,7 +34,7 @@
                             </tr>
                         </table>
                         <div class="pt-2">
-                            <a href="#" class="btn btn-success">Pesan Sekarang</a>
+                            <a href="#" class="btn btn-danger">Pesan Sekarang</a>
                         </div>
                     </div>
 

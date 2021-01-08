@@ -39,3 +39,11 @@
     </div>
 
 </footer>
+<div class="p-4 copyright text-white text-center promocolor font-weight-bold">
+    <p>
+        <i class="far fa-copyright">
+
+            Copyright 2020 Otlizshop
+        </i>
+    </p>
+</div>

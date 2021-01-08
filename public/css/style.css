@@ -1,5 +1,5 @@
 .footer {
-  background-color: #444444;
+  background-color: #000000;
 }
 
 .confcard:hover {
@@ -26,7 +26,7 @@
 }
 
 .promocolor {
-  background-color: #ff7f50;
+  background-color: #bd2121;
   font-family: sans-serif;
   font-weight: bold;
 }
@@ -60,4 +60,19 @@
 
 .btn-position {
   margin-left: 0px;
+}
+
+/* .btncolor {
+  background-color: #bd2121;
+  color: white;
+} */
+
+.btn-danger {
+  background-color: #bd2121;
+}
+
+.buttonmove {
+  margin-left: 230px;
+  margin-top: 120px;
+  margin-bottom: 250px;
 }

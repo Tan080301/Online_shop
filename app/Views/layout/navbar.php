@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark navcolor fixed-top">
     <div class="container">
-        <img class="logo" src="../img/otlogo.jpeg" alt="Logo">
+        <img href="#" class="logo" src="../img/otlogo.jpeg" alt="Logo">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -15,14 +15,14 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Produk
+                        Kategori
                     </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Produk1</a>
+                    <div class="dropdown-menu navfont" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Kategori1</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Produk2</a>
+                        <a class="dropdown-item" href="#">Kategori2</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Produk3</a>
+                        <a class="dropdown-item" href="#">Kategori3</a>
                     </div>
                 </li>
                 <li class="nav-item">
@@ -31,7 +31,7 @@
             </ul>
             <form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-warning my-2 my-sm-0" type="submit">Search</button>
+                <button class="btn btn-outline-danger my-2 my-sm-0" type="submit">Search</button>
             </form>
         </div>
     </div>

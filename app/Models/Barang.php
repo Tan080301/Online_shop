@@ -8,6 +8,7 @@ class Barang extends Model
 {
     protected $table = 'db_barang';
     protected $useTimestamps = true;
+    protected $allowedFields = ['nama_barang', 'slug', 'kode_barang', 'tipe', 'deskripsi', 'stock', 'harga', 'sampul'];
 
     public function getPages($slug = false)
     {
