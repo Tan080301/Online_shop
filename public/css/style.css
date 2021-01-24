@@ -18,7 +18,7 @@
 }
 
 .navcolor {
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
 
 .bcolor {
@@ -30,6 +30,11 @@
   font-family: sans-serif;
   font-weight: bold;
 }
+/* .promocolor {
+  background-color: #bd2121;
+  font-family: sans-serif;
+  font-weight: bold;
+} */
 
 .navfont {
   font-size: small;
